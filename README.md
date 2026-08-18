@@ -3,6 +3,5 @@
 </p>
 
 ### 🍉Tools and Languages:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,redis,rabbitmq,kafka,elasticsearch,docker,nginx,linux,debian,ubuntu)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,vue,react,nextjs,vite,tailwind)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,github,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,redis,rabbitmq,kafka,elasticsearch,docker,nginx,kubernetes,jenkins,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,vue,react,nextjs,vite,tailwind,cloudflare,git,github,idea)](https://skillicons.dev)
