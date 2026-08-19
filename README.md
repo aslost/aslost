@@ -4,10 +4,10 @@
 
 ### Hi there 👋
 
-- 💼 I'm a self-proclaimed Vibe Coding Engineer
-- 🍚 My daily fuel: Longjiang Braised Pork Trotter Rice
-- 🥤 Mixue Ice Cream & Tea is my go-to drink
-- 
+- 💼 I'm a Vibe Coding Engineer
+- 🍚 Usually eating Longjiang Braised Pork Trotter Rice
+- 🥤 Love drinking Mixue Ice Cream & Tea
+
 ### 🍉Tools and Languages:
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,redis,rabbitmq,kafka,elasticsearch,docker,nginx,kubernetes,jenkins,linux)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,vue,react,nextjs,vite,tailwind,cloudflare,git,github,idea)](https://skillicons.dev)
