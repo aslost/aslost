@@ -4,9 +4,10 @@
 
 ### Hi there 👋
 
-- 💼 I'm a Vibe Coding Engineer
+- 💼 I'm a Backend Development Engineer
 - 🍚 Usually eating Longjiang Braised Pork Trotter Rice
 - 🥤 Love drinking Mixue Ice Cream & Tea
+- ...
 
 ### 🍉Tools and Languages:
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,redis,rabbitmq,kafka,elasticsearch,docker,nginx,kubernetes,jenkins,linux)](https://skillicons.dev)
