@@ -2,7 +2,7 @@
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 </p>
 
-### Hi there 👋
+### 🌱 About
 
 - 💼 I'm a Backend Development Engineer
 - 🍚 Usually eating Longjiang Braised Pork Trotter Rice
